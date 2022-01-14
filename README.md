@@ -1,5 +1,7 @@
 # 2esystest
 
+Clone repo 
+
 Start Xampp apache and mysql
 
 Laravel:
